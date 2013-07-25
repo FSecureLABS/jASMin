@@ -1,5 +1,6 @@
 An interactive command assembler for ARM and THUMB. Quite useful when creating exploits for Android.
 
+```
 $ ./jASMin.py 
 
     _   _   ___ __  __ _      
@@ -24,3 +25,4 @@ Separate instructions by ;
 0xc0, 0x46
 > load /home/user/Desktop/test.asm
 0xc0, 0x46
+```
